@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/SoftServe/University/Materials/Java/HW/HW2/src/test/java/com/ss/YugaTest.java">
+        <classes>
+            <class name="com.ss.YugaTest">
+                <methods>
+                    <include name="searchTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
